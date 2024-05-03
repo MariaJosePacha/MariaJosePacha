@@ -12,7 +12,7 @@
 # 💫 Sobre mi:
 
 
-🎓 &nbsp; Actualmente, estoy estudiando Desarrollo Web en Hack Academy, en la cual me especializare en el desarrollo backen con JAVA.Además, me encuentro incursionando en el análisis de datos.Paralelamente, estoy interesado en el diseño UX (experiencia de usuario), investigando cómo mejorar la usabilidad y la accesibilidad de las aplicaciones para crear experiencias digitales más satisfactorias y funcionales. 
+🎓 &nbsp; Actualmente, estoy estudiando Desarrollo Web en Hack Academy, en la cual me especializare en el desarrollo backend con JAVA. Además, me encuentro incursionando en el análisis de datos.Paralelamente, estoy interesada en el diseño UX (experiencia de usuario), investigando cómo mejorar la usabilidad y la accesibilidad de las aplicaciones para crear experiencias digitales más satisfactorias y funcionales. 
 
 💡 &nbsp;Me gusta explorar nuevas tecnologias y estar en constante aprendizaje. 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/></p>
